@@ -1,0 +1,37 @@
+_repo: The-Well-at-the-World-s-End-A-Tale_169
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: "The Well at the World's End is a fantasy novel by the British artist,\
+  \ poet, and author William Morris. It was first published in 1896 and has been reprinted\
+  \ a number of times since, most notably in two parts as the 20th and 21st volumes\
+  \ of the Ballantine Adult Fantasy series, in August and September 1970. It is also\
+  \ available in one volume along with a similar Morris tale, The Wood Beyond the\
+  \ World (1894), in On the Lines of Morris' Romances: Two Books that Inspired J.\
+  \ R. R. Tolkien.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '1994-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '169'
+  wikidata: Q2384134
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Quests (Expeditions) -- Fiction'
+- !lcc 'PR'
+title: 'The Well at the World''s End: A Tale'
+url: http://www.gutenberg.org/ebooks/169
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%A6%D8%B1_%D9%81%D9%8A_%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85
+- https://nl.wikipedia.org/wiki/The_Well_at_the_World%27s_End
+- https://en.wikipedia.org/wiki/The_Well_at_the_World%27s_End
