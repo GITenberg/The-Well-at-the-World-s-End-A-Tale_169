@@ -1,5 +1,8 @@
 _repo: The-Well-at-the-World-s-End-A-Tale_169
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morris, William
@@ -16,6 +19,8 @@ description: "The Well at the World's End is a fantasy novel by the British arti
   \ available in one volume along with a similar Morris tale, The Wood Beyond the\
   \ World (1894), in On the Lines of Morris' Romances: Two Books that Inspired J.\
   \ R. R. Tolkien.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/169#The-Well-at-the-World-s-End-A-Tale
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '1994-10-01'
 gutenberg_type: Text
