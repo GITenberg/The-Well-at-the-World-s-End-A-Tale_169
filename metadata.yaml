@@ -1,5 +1,5 @@
 _repo: The-Well-at-the-World-s-End-A-Tale_169
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,6 +35,7 @@ subjects:
 - !lcsh 'Fantasy fiction'
 - !lcsh 'Quests (Expeditions) -- Fiction'
 - !lcc 'PR'
+- GITenberg
 title: 'The Well at the World''s End: A Tale'
 url: http://www.gutenberg.org/ebooks/169
 wikipedia:
